@@ -1,0 +1,17 @@
+.launchHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.searchContainer{
+    display: flex;
+    width: 60vw;
+}
+.btn-outline-secondary {
+    color: black;
+    border-color: #6c757d;
+    background: white;
+}
+.searchField {
+    width: 270px;
+}
